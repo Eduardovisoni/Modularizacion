@@ -1,0 +1,42 @@
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.exe
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.deps.json
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.runtimeconfig.json
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfo.cs
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\refint\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.genruntimeconfig.cache
+C:\Users\WINDOWS\Desktop\Progra\Modularizacion\obj\Debug\net8.0\ref\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.exe
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.deps.json
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.runtimeconfig.json
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\bin\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfo.cs
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\refint\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\Modularizacion.genruntimeconfig.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Progra\Modularizacion\obj\Debug\net8.0\ref\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\bin\Debug\net8.0\Modularizacion.exe
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\bin\Debug\net8.0\Modularizacion.deps.json
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\bin\Debug\net8.0\Modularizacion.runtimeconfig.json
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\bin\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\bin\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.AssemblyInfo.cs
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\refint\Modularizacion.dll
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.pdb
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\Modularizacion.genruntimeconfig.cache
+C:\Users\WINDOWS\Desktop\Documentos UMG\Programacion\VISUAL STUDIO\Modularizacion\obj\Debug\net8.0\ref\Modularizacion.dll
